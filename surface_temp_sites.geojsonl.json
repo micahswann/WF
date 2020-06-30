@@ -1,0 +1,9 @@
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "KNB", "Lat": 38.99276, "Long": -122.742805 }, "geometry": { "type": "Point", "coordinates": [ -122.742805, 38.99276 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "CLO", "Lat": 39.018989, "Long": -122.675768 }, "geometry": { "type": "Point", "coordinates": [ -122.675768, 39.018989 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "NIC", "Lat": 39.11893, "Long": -122.83848 }, "geometry": { "type": "Point", "coordinates": [ -122.83848, 39.11893 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "NLP", "Lat": 39.095301, "Long": -122.899782 }, "geometry": { "type": "Point", "coordinates": [ -122.899782, 39.095301 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "BKP", "Lat": 39.016991, "Long": -122.750532 }, "geometry": { "type": "Point", "coordinates": [ -122.750532, 39.016991 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "JGB", "Lat": 38.944567, "Long": -122.669012 }, "geometry": { "type": "Point", "coordinates": [ -122.669012, 38.944567 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "BEK", "Lat": 38.949773, "Long": -122.64555 }, "geometry": { "type": "Point", "coordinates": [ -122.64555, 38.949773 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "NR-S", "Lat": 39.02672, "Long": -122.74794 }, "geometry": { "type": "Point", "coordinates": [ -122.74794, 39.02672 ] } }
+{ "type": "Feature", "properties": { "Category": "Surface", "Status": "Active", "Site ID": "LA-S", "Lat": 38.97234, "Long": -122.70037 }, "geometry": { "type": "Point", "coordinates": [ -122.70037, 38.97234 ] } }

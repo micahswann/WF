@@ -1,0 +1,7 @@
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "KNB", "Lat": 38.99276, "Long": -122.742805 }, "geometry": { "type": "Point", "coordinates": [ -122.742805, 38.99276 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "BEK", "Lat": 38.949773, "Long": -122.64555 }, "geometry": { "type": "Point", "coordinates": [ -122.64555, 38.949773 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "CLO", "Lat": 39.018989, "Long": -122.675768 }, "geometry": { "type": "Point", "coordinates": [ -122.675768, 39.018989 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "NIC", "Lat": 39.121878, "Long": -122.851016 }, "geometry": { "type": "Point", "coordinates": [ -122.851016, 39.121878 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "NLP", "Lat": 39.095301, "Long": -122.899782 }, "geometry": { "type": "Point", "coordinates": [ -122.899782, 39.095301 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "BVR", "Lat": 39.025291, "Long": -122.887118 }, "geometry": { "type": "Point", "coordinates": [ -122.887118, 39.025291 ] } }
+{ "type": "Feature", "properties": { "Category": "Met", "Status": "Active", "Site ID": "BKP", "Lat": 39.016991, "Long": -122.750532 }, "geometry": { "type": "Point", "coordinates": [ -122.750532, 39.016991 ] } }
